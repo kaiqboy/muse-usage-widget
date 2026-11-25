@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-26T02:48:20+08:00",
+  "updated_at": "2026-11-26T03:18:19+08:00",
   "plan": "Free",
-  "percent_used": 0,
+  "percent_used": 1,
   "resets_at": "2026-12-02T10:18:00+08:00",
   "additional_tokens": { "percent_used": 0, "left_label": "1B tokens left" }
 }
